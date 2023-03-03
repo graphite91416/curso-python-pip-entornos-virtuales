@@ -1,2 +1,4 @@
 *.jpg
 *.png
+charts/env
+web-server/env
