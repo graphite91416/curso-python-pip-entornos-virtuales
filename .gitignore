@@ -2,3 +2,4 @@
 *.png
 charts/env
 web-server/env
+web-server/__pycache__
